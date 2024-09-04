@@ -1,0 +1,2 @@
+# JavaScriptWorkshop
+Workshop assignments
